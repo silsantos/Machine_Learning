@@ -11,3 +11,9 @@
 > Curva ROC
 
 > Criação de faixas de valores
+
+## Detecção de Fraudes
+
+> Balanceamento de dados: undersampling e oversampling
+
+> RandomizedSearch: melhores parâmetros para otimizar o modelo
